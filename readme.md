@@ -1,4 +1,4 @@
-# Three.js Journey
+# Loading 3d animated model
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
